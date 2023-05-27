@@ -20,8 +20,8 @@
     ],
     "images": [
       {
-        "original": "/img/portfolio/wooppay.png",
-        "thumbnail": "/img/portfolio/wooppay.png"
+        "original": "/portfolio/img/project/wooppay/wooppay.png",
+        "thumbnail": "/portfolio/img/project/wooppay/wooppay.png"
       }
     ]
   },
@@ -40,24 +40,24 @@
     ],
     "images": [
       {
-        "original": "/img/portfolio/yusearch.jpeg",
-        "thumbnail": "/img/portfolio/yusearch.jpeg"
+        "original": "/portfolio/img/project/yuwert/yusearch.jpeg",
+        "thumbnail": "/portfolio/img/project/yuwert/yusearch.jpeg"
       },
       {
-        "original": "/img/portfolio/yusearch2.jpg",
-        "thumbnail": "/img/portfolio/yusearch2.jpg"
+        "original": "/portfolio/img/project/yuwert/yusearch2.jpg",
+        "thumbnail": "/portfolio/img/project/yuwert/yusearch2.jpg"
       },
       {
-        "original": "/img/portfolio/yusearch-mobile.jpg",
-        "thumbnail": "/img/portfolio/yusearch-mobile.jpg"
+        "original": "/portfolio/img/project/yuwert/yusearch-mobile.jpg",
+        "thumbnail": "/portfolio/img/project/yuwert/yusearch-mobile.jpg"
       },
       {
-        "original": "/img/portfolio/yuwert-main.jpg",
-        "thumbnail": "/img/portfolio/yuwert-main.jpg"
+        "original": "/portfolio/img/project/yuwert/yuwert-main.jpg",
+        "thumbnail": "/portfolio/img/project/yuwert/yuwert-main.jpg"
       },
       {
-        "original": "/img/portfolio/yuwert-result.jpg",
-        "thumbnail": "/img/portfolio/yuwert-result.jpg"
+        "original": "/portfolio/img/project/yuwert/yuwert-result.jpg",
+        "thumbnail": "/portfolio/img/project/yuwert/yuwert-result.jpg"
       }
     ]
   },
@@ -79,12 +79,12 @@
     ],
     "images": [
       {
-        "original": "/img/portfolio/yumail.jpg",
-        "thumbnail": "/img/portfolio/yumail.jpg"
+        "original": "/portfolio/img/project/yumail/yumail.jpg",
+        "thumbnail": "/portfolio/img/project/yumail/yumail.jpg"
       },
       {
-        "original": "/img/portfolio/yumail-screen.jpg",
-        "thumbnail": "/img/portfolio/yumail-screen.jpg"
+        "original": "/portfolio/img/project/yumail/yumail-screen.jpg",
+        "thumbnail": "/portfolio/img/project/yumail/yumail-screen.jpg"
       }
     ]
   },
@@ -106,16 +106,16 @@
     ],
     "images": [
       {
-        "original": "/img/portfolio/yunews-main.jpg",
-        "thumbnail": "/img/portfolio/yunews-main.jpg"
+        "original": "/portfolio/img/project/yunews/yunews-main.jpg",
+        "thumbnail": "/portfolio/img/project/yunews/yunews-main.jpg"
       },
       {
-        "original": "/img/portfolio/yunews.jpg",
-        "thumbnail": "/img/portfolio/yunews.jpg"
+        "original": "/portfolio/img/project/yunews/yunews.jpg",
+        "thumbnail": "/portfolio/img/project/yunews/yunews.jpg"
       },
       {
-        "original": "/img/portfolio/yunews2.jpg",
-        "thumbnail": "/img/portfolio/yunews2.jpg"
+        "original": "/portfolio/img/project/yunews/yunews2.jpg",
+        "thumbnail": "/portfolio/img/project/yunews/yunews2.jpg"
       }
     ]
   },
@@ -137,12 +137,12 @@
     ],
     "images": [
       {
-        "original": "/img/portfolio/yumarket-main.jpg",
-        "thumbnail": "/img/portfolio/yumarket-main.jpg"
+        "original": "/portfolio/img/project/yumarket/yumarket-main.jpg",
+        "thumbnail": "/portfolio/img/project/yumarket/yumarket-main.jpg"
       },
       {
-        "original": "/img/portfolio/yumarket-list.jpg",
-        "thumbnail": "/img/portfolio/yumarket-list.jpg"
+        "original": "/portfolio/img/project/yumarket/yumarket-list.jpg",
+        "thumbnail": "/portfolio/img/project/yumarket/yumarket-list.jpg"
       }
     ]
   },
@@ -164,20 +164,20 @@
     ],
     "images": [
       {
-        "original": "/img/portfolio/yujob-main.jpg",
-        "thumbnail": "/img/portfolio/yujob-main.jpg"
+        "original": "/portfolio/img/project/yujob/yujob-main.jpg",
+        "thumbnail": "/portfolio/img/project/yujob/yujob-main.jpg"
       },
       {
-        "original": "/img/portfolio/yujob-item.jpg",
-        "thumbnail": "/img/portfolio/yujob-item.jpg"
+        "original": "/portfolio/img/project/yujob/yujob-item.jpg",
+        "thumbnail": "/portfolio/img/project/yujob/yujob-item.jpg"
       },
       {
-        "original": "/img/portfolio/yujob-resume.jpg",
-        "thumbnail": "/img/portfolio/yujob-resume.jpg"
+        "original": "/portfolio/img/project/yujob/yujob-resume.jpg",
+        "thumbnail": "/portfolio/img/project/yujob/yujob-resume.jpg"
       },
       {
-        "original": "/img/portfolio/yujob-vacancy.jpg",
-        "thumbnail": "/img/portfolio/yujob-vacancy.jpg"
+        "original": "/portfolio/img/project/yujob/yujob-vacancy.jpg",
+        "thumbnail": "/portfolio/img/project/yujob/yujob-vacancy.jpg"
       }
     ]
   },
@@ -197,8 +197,8 @@
     ],
     "images": [
       {
-        "original": "/img/portfolio/elumiti.png",
-        "thumbnail": "/img/portfolio/elumiti.png"
+        "original": "/portfolio/img/project/elumiti/elumiti.png",
+        "thumbnail": "/portfolio/img/project/elumiti/elumiti.png"
       }
     ]
   },
@@ -251,7 +251,7 @@
     "title": "Документы",
     "company": "ЦИТ \"Орлеу\"",
     "position": "Backend-разработчик",
-    "description": "Сервис для работы с документами. Дает возможность сформировать, подписать, распечатать документ с ЭЦП. Так же, есть возможность верификации ЭЦП из уже распечатанного документа (ЭЦП сканируется из QR-кода). Функционал:<ul> <li>создание документа</li><li>подписание/верификация документа</li><li>формирование документа для печати с ЭЦП помещенной в QR-код</li> </ul>",
+    "description": "Сервис для работы с документами. Дает возможность сформировать, подписать, распечатать документ с ЭЦП. Так же, есть возможность верификации ЭЦП из уже распечатанного документа (ЭЦП сканируется из QR-кода). Функционал: создание документа, подписание/верификация документа, формирование документа для печати с ЭЦП помещенной в QR-код.",
     "techUnit": [
       "PHP",
       "Symfony",
@@ -264,7 +264,7 @@
     "title": "PDS",
     "company": "ЦИТ \"Орлеу\"",
     "position": "Backend-разработчик",
-    "description": "Система обработки и хранения персональных данных пользователей. Функционал:<ul><li>аутентификация</li><li>добавление/отключение пользователей</li><li>изменение/восстановление пароля</li><li>хранение/получение персональных данных</li><li>отправка уведомлений, связанных с безопасностью пользователя</li>",
+    "description": "Система обработки и хранения персональных данных пользователей. Функционал: аутентификация, добавление/отключение пользователей, изменение/восстановление пароля, хранение/получение персональных данных, отправка уведомлений, связанных с безопасностью пользователя",
     "techUnit": [
       "PHP",
       "Symfony",

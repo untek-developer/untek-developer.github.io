@@ -1,0 +1,203 @@
+[
+  {
+    "title": "PHP",
+    "level": "VERY_HIGH"
+  },
+  {
+    "title": "PSR",
+    "level": "VERY_HIGH"
+  },
+  {
+    "title": "HTML",
+    "level": "VERY_HIGH"
+  },
+  {
+    "title": "CSS",
+    "level": "NORMAL"
+  },
+  {
+    "title": "JS",
+    "level": "HIGH"
+  },
+  {
+    "title": "MySQL",
+    "level": "NORMAL"
+  },
+  {
+    "title": "PostgreSQL",
+    "level": "NORMAL"
+  },
+  {
+    "title": "Typescript",
+    "level": "VERY_LOW"
+  },
+  {
+    "title": "NodeJS",
+    "level": "LOW"
+  },
+  {
+    "title": "jQuery",
+    "level": "NORMAL"
+  },
+  {
+    "title": "Twitter Bootstrap",
+    "level": "HIGH"
+  },
+  {
+    "title": "RegExp",
+    "level": "HIGH"
+  },
+  {
+    "title": "Git",
+    "level": "HIGH"
+  },
+  {
+    "title": "AJAX",
+    "level": "HIGH"
+  },
+  {
+    "title": "ООП",
+    "level": "VERY_HIGH"
+  },
+  {
+    "title": "DDD",
+    "level": "HIGH"
+  },
+  {
+    "title": "Луковая архитектура",
+    "level": "HIGH"
+  },
+  {
+    "title": "SOLID",
+    "level": "VERY_HIGH"
+  },
+  {
+    "title": "Паттерны проектирования",
+    "level": "HIGH"
+  },
+  {
+    "title": "Teamleading",
+    "level": "NORMAL"
+  },
+  {
+    "title": "Микросервисная архитектура",
+    "level": "HIGH"
+  },
+  {
+    "title": "Symfony",
+    "level": "HIGH"
+  },
+  {
+    "title": "Yii",
+    "level": "HIGH"
+  },
+  {
+    "title": "Laravel",
+    "level": "LOW"
+  },
+  {
+    "title": "REST API",
+    "level": "VERY_HIGH"
+  },
+  {
+    "title": "JSON-RPC",
+    "level": "VERY_HIGH"
+  },
+
+
+  {
+    "title": "XSS",
+    "level": "HIGH"
+  },
+  {
+    "title": "SQL Injection",
+    "level": "NORMAL"
+  },
+  {
+    "title": "CSRF",
+    "level": "HIGH"
+  },
+  {
+    "title": "Криптография",
+    "level": "HIGH"
+  },
+
+
+
+  {
+    "title": "LAMP Stack",
+    "level": "NORMAL"
+  },
+  {
+    "title": "redis",
+    "level": "NORMAL"
+  },
+  {
+    "title": "docker",
+    "level": "NORMAL"
+  },
+  {
+    "title": "linux",
+    "level": "NORMAL"
+  },
+  {
+    "title": "nginx",
+    "level": "NORMAL"
+  },
+  {
+    "title": "удаленная работа",
+    "level": "NORMAL"
+  },
+  {
+    "title": "phpunit",
+    "level": "HIGH"
+  },
+  {
+    "title": "composer",
+    "level": "HIGH"
+  },
+  {
+    "title": "atlassian jira",
+    "level": "NORMAL"
+  },
+  {
+    "title": "vue.js",
+    "level": "LOW"
+  },
+  {
+    "title": "react",
+    "level": "LOW"
+  },
+  {
+    "title": "kafka",
+    "level": "NORMAL"
+  },
+  {
+    "title": "soap",
+    "level": "NORMAL"
+  },
+  {
+    "title": "рефакторинг кода",
+    "level": "HIGH"
+  },
+  {
+    "title": "scrum",
+    "level": "NORMAL"
+  },
+  {
+    "title": "swagger",
+    "level": "NORMAL"
+  },
+  {
+    "title": "graphql",
+    "level": "VERY_LOW"
+  },
+  {
+    "title": "agile",
+    "level": "NORMAL"
+  },
+  {
+    "title": "doctrine",
+    "level": "LOW"
+  }
+]
