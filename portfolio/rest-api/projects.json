@@ -4,7 +4,7 @@
     "site": "https://play.google.com/store/apps/details?id=com.wooppay.wooppayapplication&hl=ru&gl=US",
     "company": "Wooppay",
     "position": "Backend-разработчик",
-    "description": "Была задача разработать мобильное приложение для кошелька (Android, IOS) и серверную часть, предоставляющую АПИ. Работали спринтами небольшой командой. Был ответственный за backend-часть мобильного приложения.",
+    "description": "Wooppay кошелек — первый казахстанский электронный кошелек, созданный в Караганде.\n\nВ приложении больше 500 платежных услуг. Можно оплатить без привязки банковской карты, используя баланс электронного кошелька. Оплата с баланса кошелька происходит в один клик. Помимо платежей можно совершать переводы, переводы между кошельками пользователей Wooppay без комиссий.",
     "techUnit": [
       "PHP",
       "Yii2",
@@ -20,8 +20,7 @@
     ],
     "images": [
       {
-        "original": "/portfolio/img/project/wooppay/wooppay.png",
-        "thumbnail": "/portfolio/img/project/wooppay/wooppay.png"
+        "original": "/portfolio/img/project/wooppay/wooppay.png"
       }
     ]
   },
@@ -40,24 +39,19 @@
     ],
     "images": [
       {
-        "original": "/portfolio/img/project/yuwert/yusearch.jpeg",
-        "thumbnail": "/portfolio/img/project/yuwert/yusearch.jpeg"
+        "original": "/portfolio/img/project/yuwert/yusearch.jpeg"
       },
       {
-        "original": "/portfolio/img/project/yuwert/yusearch2.jpg",
-        "thumbnail": "/portfolio/img/project/yuwert/yusearch2.jpg"
+        "original": "/portfolio/img/project/yuwert/yusearch2.jpg"
       },
       {
-        "original": "/portfolio/img/project/yuwert/yusearch-mobile.jpg",
-        "thumbnail": "/portfolio/img/project/yuwert/yusearch-mobile.jpg"
+        "original": "/portfolio/img/project/yuwert/yusearch-mobile.jpg"
       },
       {
-        "original": "/portfolio/img/project/yuwert/yuwert-main.jpg",
-        "thumbnail": "/portfolio/img/project/yuwert/yuwert-main.jpg"
+        "original": "/portfolio/img/project/yuwert/yuwert-main.jpg"
       },
       {
-        "original": "/portfolio/img/project/yuwert/yuwert-result.jpg",
-        "thumbnail": "/portfolio/img/project/yuwert/yuwert-result.jpg"
+        "original": "/portfolio/img/project/yuwert/yuwert-result.jpg"
       }
     ]
   },
@@ -79,12 +73,10 @@
     ],
     "images": [
       {
-        "original": "/portfolio/img/project/yumail/yumail.jpg",
-        "thumbnail": "/portfolio/img/project/yumail/yumail.jpg"
+        "original": "/portfolio/img/project/yumail/yumail.jpg"
       },
       {
-        "original": "/portfolio/img/project/yumail/yumail-screen.jpg",
-        "thumbnail": "/portfolio/img/project/yumail/yumail-screen.jpg"
+        "original": "/portfolio/img/project/yumail/yumail-screen.jpg"
       }
     ]
   },
@@ -106,16 +98,13 @@
     ],
     "images": [
       {
-        "original": "/portfolio/img/project/yunews/yunews-main.jpg",
-        "thumbnail": "/portfolio/img/project/yunews/yunews-main.jpg"
+        "original": "/portfolio/img/project/yunews/yunews-main.jpg"
       },
       {
-        "original": "/portfolio/img/project/yunews/yunews.jpg",
-        "thumbnail": "/portfolio/img/project/yunews/yunews.jpg"
+        "original": "/portfolio/img/project/yunews/yunews.jpg"
       },
       {
-        "original": "/portfolio/img/project/yunews/yunews2.jpg",
-        "thumbnail": "/portfolio/img/project/yunews/yunews2.jpg"
+        "original": "/portfolio/img/project/yunews/yunews2.jpg"
       }
     ]
   },
@@ -137,12 +126,10 @@
     ],
     "images": [
       {
-        "original": "/portfolio/img/project/yumarket/yumarket-main.jpg",
-        "thumbnail": "/portfolio/img/project/yumarket/yumarket-main.jpg"
+        "original": "/portfolio/img/project/yumarket/yumarket-main.jpg"
       },
       {
-        "original": "/portfolio/img/project/yumarket/yumarket-list.jpg",
-        "thumbnail": "/portfolio/img/project/yumarket/yumarket-list.jpg"
+        "original": "/portfolio/img/project/yumarket/yumarket-list.jpg"
       }
     ]
   },
@@ -164,20 +151,16 @@
     ],
     "images": [
       {
-        "original": "/portfolio/img/project/yujob/yujob-main.jpg",
-        "thumbnail": "/portfolio/img/project/yujob/yujob-main.jpg"
+        "original": "/portfolio/img/project/yujob/yujob-main.jpg"
       },
       {
-        "original": "/portfolio/img/project/yujob/yujob-item.jpg",
-        "thumbnail": "/portfolio/img/project/yujob/yujob-item.jpg"
+        "original": "/portfolio/img/project/yujob/yujob-item.jpg"
       },
       {
-        "original": "/portfolio/img/project/yujob/yujob-resume.jpg",
-        "thumbnail": "/portfolio/img/project/yujob/yujob-resume.jpg"
+        "original": "/portfolio/img/project/yujob/yujob-resume.jpg"
       },
       {
-        "original": "/portfolio/img/project/yujob/yujob-vacancy.jpg",
-        "thumbnail": "/portfolio/img/project/yujob/yujob-vacancy.jpg"
+        "original": "/portfolio/img/project/yujob/yujob-vacancy.jpg"
       }
     ]
   },
@@ -197,8 +180,7 @@
     ],
     "images": [
       {
-        "original": "/portfolio/img/project/elumiti/elumiti.png",
-        "thumbnail": "/portfolio/img/project/elumiti/elumiti.png"
+        "original": "/portfolio/img/project/elumiti/elumiti.png"
       }
     ]
   },
