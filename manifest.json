@@ -1,9 +1,9 @@
 {
-  "short_name": "Bootstrap 4 React",
-  "name": "Bootstrap 4 React Documentation",
+  "short_name": "My resume",
+  "name": "My resume",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "img/favicon/icons8-resume-smashingstocks-flat-96.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }

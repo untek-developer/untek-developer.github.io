@@ -1,0 +1,63 @@
+[
+  {
+    "id": "impressive-experience",
+    "title": "Впечатляющий опыт",
+    "description": "Рассказываю про опыт, который оставил ярое впечатление",
+    "contentFile": "/portfolio/main/rest-api/blog/impressive-experience.md",
+    "isHidden": true
+  },
+  {
+    "id": "modern-frameworks",
+    "title": "Современные PHP-фреймворки",
+    "description": "Рассказываю о фреймворках Yii, Laravel и Symfony",
+    "contentFile": "/portfolio/main/rest-api/blog/modern-frameworks.md"
+  },
+  {
+    "id": "onion-architecture",
+    "title": "Луковичная архитектура",
+    "description": "Проверенная временем архитектура",
+    "contentFile": "/portfolio/main/rest-api/blog/onion-architecture.md"
+  },
+  {
+    "id": "auto-test",
+    "title": "Размышления об авто-тестах",
+    "description": "Рассказываю как я применял авто-тесты на своих проектах и какой от этого профит",
+    "contentFile": "/portfolio/main/rest-api/blog/.md",
+    "isHidden": true
+  },
+  {
+    "id": "migrate-domain-layer",
+    "title": "Перенос логики \"Мессенджера\" с Yii2 на Symfony",
+    "description": "",
+    "contentFile": "/portfolio/main/rest-api/blog/.md",
+    "isHidden": true
+  },
+  {
+    "id": "design-e2ee",
+    "title": "Проектировка и реализация e2ee-шифрования на Typescript",
+    "description": "Рассказываю, как я проектировал протокол End-to-end",
+    "contentFile": "/portfolio/main/rest-api/blog/design-e2ee.md",
+    "isHidden": true
+  },
+  {
+    "id": "design-yuwert-portal",
+    "title": "Проектировка и реализация портала Yuwert",
+    "description": "",
+    "contentFile": "/portfolio/main/rest-api/blog/design-yuwert-portal.md",
+    "isHidden": true
+  },
+  {
+    "id": "info-bot-implementation",
+    "title": "Реализация инфо-бота",
+    "description": "",
+    "contentFile": "/portfolio/main/rest-api/blog/info-bot-implementation.md",
+    "isHidden": true
+  },
+  {
+    "id": "my-api-design",
+    "title": "Как я проектирую API",
+    "description": "Показываю пример проектирования REST API",
+    "contentFile": "/portfolio/main/rest-api/blog/my-api-design.md",
+    "isHidden": true
+  }
+]

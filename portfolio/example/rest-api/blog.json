@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Post 1",
+    "description": "Description 1",
+    "contentMd": "Content 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2",
+    "description": "Description 2",
+    "contentMd": "Content 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3",
+    "description": "Description 3",
+    "contentMd": "Content 3"
+  },
+  {
+    "id": 4,
+    "title": "Post 4 (hidden)",
+    "description": "Description 4",
+    "contentMd": "Content 4",
+    "isHidden": true
+  }
+]

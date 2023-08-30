@@ -1,0 +1,338 @@
+[
+  {
+    "title": "Мобильный кошелек Wooppay",
+    "site": "https://play.google.com/store/apps/details?id=com.wooppay.wooppayapplication&hl=ru&gl=US",
+    "company": "Wooppay",
+    "position": "Backend-разработчик",
+    "description": "Wooppay кошелек — первый казахстанский электронный кошелек, созданный в Караганде.\n\nВ приложении больше 500 платежных услуг. Можно оплатить без привязки банковской карты, используя баланс электронного кошелька. Оплата с баланса кошелька происходит в один клик. Помимо платежей можно совершать переводы, переводы между кошельками пользователей Wooppay без комиссий.",
+    "techUnit": [
+      "PHP",
+      "Yii2",
+      "PostgreSQL",
+      "Swift (IOS)",
+      "Kotlin (Android)"
+    ],
+    "responsibilities": [
+      "Разработка серверной части мобильного кошелька",
+      "Поддержка и развитие контрактов взаимодействия с мобильным приложением.",
+      "Проведение технических собеседований и повышение общего технического уровня команды разработки.",
+      "Разработка авто-тестов"
+    ],
+    "images": [
+      {
+        "original": "/portfolio/main/img/project/wooppay/wooppay.png"
+      }
+    ]
+  },
+  {
+    "title": "Yuwert",
+    "company": "Yuwert IT",
+    "position": "Тимлид",
+    "description": "Yuwert – это первая Казахстанская поисковая система, которая сочетает в себе уникальность предоставляемых сервисов и постоянный прогресс в развитии своих цифровых продуктов. В основе работы Yuwert лежит собственное инновационное решение, которое открывает новые возможности для наших пользователей.",
+    "techUnit": [
+      "PHP",
+      "React",
+      "Yii2",
+      "PostgreSQL",
+      "Swift (IOS)",
+      "Kotlin (Android)"
+    ],
+    "images": [
+      {
+        "original": "/portfolio/main/img/project/yuwert/yusearch.jpeg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yuwert/yusearch2.jpg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yuwert/yusearch-mobile.jpg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yuwert/yuwert-main.jpg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yuwert/yuwert-result.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Yumail",
+    "company": "Yuwert IT",
+    "position": "Тимлид",
+    "description": "Симбиоз почты и мессенджера для корпоративного или личного использования.",
+    "techUnit": [
+      "PHP",
+      "React",
+      "Yii2",
+      "PostgreSQL",
+      "Kafka",
+      "Swift (IOS)",
+      "Kotlin (Android)",
+      "Electron (Desktop)",
+      "Websocket"
+    ],
+    "images": [
+      {
+        "original": "/portfolio/main/img/project/yumail/yumail.jpg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yumail/yumail-screen.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Yunews",
+    "company": "Yuwert IT",
+    "position": "Тимлид",
+    "description": "Новостной портал.",
+    "techUnit": [
+      "PHP",
+      "React",
+      "Yii2",
+      "PostgreSQL",
+      "Kafka",
+      "Swift (IOS)",
+      "Kotlin (Android)",
+      "Electron (Desktop)",
+      "Websocket"
+    ],
+    "images": [
+      {
+        "original": "/portfolio/main/img/project/yunews/yunews-main.jpg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yunews/yunews.jpg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yunews/yunews2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Yumarket",
+    "company": "Yuwert IT",
+    "position": "Тимлид",
+    "description": "Площадка электронного магазина.",
+    "techUnit": [
+      "PHP",
+      "React",
+      "Yii2",
+      "PostgreSQL",
+      "Kafka",
+      "Swift (IOS)",
+      "Kotlin (Android)",
+      "Electron (Desktop)",
+      "Websocket"
+    ],
+    "images": [
+      {
+        "original": "/portfolio/main/img/project/yumarket/yumarket-main.jpg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yumarket/yumarket-list.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Yujob",
+    "company": "Yuwert IT",
+    "position": "Тимлид",
+    "description": "Площадка для поиска работы и сотрудников.",
+    "techUnit": [
+      "PHP",
+      "React",
+      "Yii2",
+      "PostgreSQL",
+      "Kafka",
+      "Swift (IOS)",
+      "Kotlin (Android)",
+      "Electron (Desktop)",
+      "Websocket"
+    ],
+    "images": [
+      {
+        "original": "/portfolio/main/img/project/yujob/yujob-main.jpg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yujob/yujob-item.jpg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yujob/yujob-resume.jpg"
+      },
+      {
+        "original": "/portfolio/main/img/project/yujob/yujob-vacancy.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Elumiti",
+    "site": "https://elumiti.kz/",
+    "company": "Codo",
+    "position": "Backend-разработчик",
+    "description": "Корпоративный фонд EL ÜMITI. Поддержка и развитие молодых талантов и лидеров",
+    "techUnit": [
+      "PHP",
+      "Yii2",
+      "PostgreSQL",
+      "Websocket"
+    ],
+    "responsibilities": [
+    ],
+    "images": [
+      {
+        "original": "/portfolio/main/img/project/elumiti/elumiti.png"
+      }
+    ]
+  },
+  {
+    "title": "Webhook service",
+    "company": "Фриланс",
+    "position": "Backend-разработчик",
+    "description": "Микро-сервис для отправки веб-хуков. Есть возможность запуска несколько потоков обработки.",
+    "techUnit": [
+      "PHP",
+      "Symfony",
+      "Kafka"
+    ],
+    "responsibilities": [
+      "Поддержка и развитие контрактов взаимодействия с другими внутренними сервисами.",
+      "Разработка авто-тестов"
+    ]
+  },
+  {
+    "title": "Pay service",
+    "company": "Фриланс",
+    "position": "Backend-разработчик",
+    "description": "Данный сервис агрегирует множество операторов обработки платежей, объединяет разные контракты АПИ операторов в единый, унифицированный внешний контракт.",
+    "techUnit": [
+      "PHP",
+      "Symfony"
+    ],
+    "responsibilities": [
+      "Поддержка и развитие контрактов взаимодействия с партнерами.",
+      "Интеграция с разными операторами",
+      "Разработка авто-тестов"
+    ]
+  },
+  {
+    "title": "API gate",
+    "company": "Фриланс",
+    "position": "Backend-разработчик",
+    "description": "Предоставляет партнерам доступ к сервисам компании через единую точку входа. Производит авторизацию партнера.",
+    "techUnit": [
+      "PHP",
+      "Symfony"
+    ],
+    "responsibilities": [
+      "Поддержка и развитие контрактов взаимодействия с другими внутренними сервисами.",
+      "Разработка микро-сервиса, контрактов и документации для интеграции партнеров (B2B).",
+      "Разработка авто-тестов"
+    ]
+  },
+  {
+    "title": "Документы",
+    "company": "ЦИТ \"Орлеу\"",
+    "position": "Backend-разработчик",
+    "description": "Сервис для работы с документами. Дает возможность сформировать, подписать, распечатать документ с ЭЦП. Так же, есть возможность верификации ЭЦП из уже распечатанного документа (ЭЦП сканируется из QR-кода). Функционал: создание документа, подписание/верификация документа, формирование документа для печати с ЭЦП помещенной в QR-код.",
+    "techUnit": [
+      "PHP",
+      "Symfony",
+      "PostgreSQL"
+    ],
+    "responsibilities": [
+    ]
+  },
+  {
+    "title": "PDS",
+    "company": "ЦИТ \"Орлеу\"",
+    "position": "Backend-разработчик",
+    "description": "Система обработки и хранения персональных данных пользователей. Функционал: аутентификация, добавление/отключение пользователей, изменение/восстановление пароля, хранение/получение персональных данных, отправка уведомлений, связанных с безопасностью пользователя",
+    "techUnit": [
+      "PHP",
+      "Symfony",
+      "PostgreSQL",
+      "Kafka"
+    ],
+    "responsibilities": [
+    ]
+  },
+  {
+    "title": "Интеграция со Smart-bridge",
+    "company": "ЦИТ \"Орлеу\"",
+    "position": "Backend-разработчик",
+    "description": "Микро-сервис для обмена сообщениями от сторонней системой. Используется для отправки/приема электронных документов и статусов их обработки из государственного портала",
+    "techUnit": [
+      "PHP",
+      "Symfony",
+      "PostgreSQL"
+    ],
+    "responsibilities": [
+    ]
+  },
+  {
+    "title": "Wooppay core",
+    "company": "Wooppay",
+    "position": "Backend-разработчик",
+    "description": "Сервис для внешних интеграций с партнерами. Возможность перевода средств, история транзакций, просмотр баланса, ввод/вывод средств.",
+    "techUnit": [
+      "PHP",
+      "Yii2",
+      "PostgreSQL"
+    ],
+    "responsibilities": [
+      "Разработка микросервиса, контрактов и документации для интеграции партнеров (B2B).",
+      "Разработка авто-тестов"
+    ]
+  },
+
+
+
+
+
+
+
+  {
+    "title": "Микро-сервис \"Рассылка SMS и Email\"",
+    "company": "Yuwert IT",
+    "position": "Тимлид",
+    "description": "Микро-сервис для рассылки SMS и Email",
+    "techUnit": [
+      "PHP",
+      "Yii2",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "title": "Микро-сервис \"Файловое хранилище\"",
+    "company": "Yuwert IT",
+    "position": "Тимлид",
+    "description": "Микро-сервис для хранения файлов из проектов портала.",
+    "techUnit": [
+      "PHP",
+      "Yii2",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "title": "Микро-сервис \"Пользователи\"",
+    "company": "Yuwert IT",
+    "position": "Тимлид",
+    "description": "Микро-сервис для работы с пользователями. Включает в себя: регистрация и аутентификация пользователя, изменение/восстановление пароля.",
+    "techUnit": [
+      "PHP",
+      "Yii2",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "title": "Микро-сервис \"Кошелек\"",
+    "company": "Yuwert IT",
+    "position": "Тимлид",
+    "description": "Микро-сервис для работы с денежными средствами. Обладает функционалом: ввод и вывод средств, бонусы, оплата, просмотр баланса, перевод средств между пользователями.",
+    "techUnit": [
+      "PHP",
+      "Yii2",
+      "PostgreSQL"
+    ]
+  }
+]
