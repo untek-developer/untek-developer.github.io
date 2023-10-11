@@ -29,11 +29,13 @@
   },
   {
     "title": "Typescript",
-    "level": "VERY_LOW"
+    "level": "VERY_LOW",
+    "isHidden": true
   },
   {
     "title": "NodeJS",
-    "level": "LOW"
+    "level": "LOW",
+    "isHidden": true
   },
   {
     "title": "jQuery",
@@ -93,7 +95,8 @@
   },
   {
     "title": "Laravel",
-    "level": "LOW"
+    "level": "LOW",
+    "isHidden": true
   },
   {
     "title": "REST API",
@@ -162,11 +165,13 @@
   },
   {
     "title": "vue.js",
-    "level": "LOW"
+    "level": "LOW",
+    "isHidden": true
   },
   {
     "title": "react",
-    "level": "LOW"
+    "level": "LOW",
+    "isHidden": true
   },
   {
     "title": "kafka",
@@ -200,7 +205,8 @@
 
   {
     "title": "graphql",
-    "level": "VERY_LOW"
+    "level": "VERY_LOW",
+    "isHidden": true
   },
   {
     "title": "agile",
@@ -208,7 +214,8 @@
   },
   {
     "title": "doctrine",
-    "level": "LOW"
+    "level": "LOW",
+    "isHidden": true
   },
   {
     "title": "Eloquent",
