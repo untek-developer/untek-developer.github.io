@@ -1,0 +1,70 @@
+{
+  "brandTitle": "",
+  "leftMenu": [
+    {
+      "name": "Главная страница",
+      "uri": "/",
+      "hidden": true
+    },
+    {
+      "name": "О себе",
+      "uri": "/about"
+    },
+    {
+      "name": "Опыт работы",
+      "uri": "/companies"
+    },
+    {
+      "name": "Проекты",
+      "uri": "/projects"
+    },
+    {
+      "name": "Навыки",
+      "uri": "/skills"
+    },
+    {
+      "name": "Мои контакты",
+      "uri": "/contacts",
+      "hidden": true
+    },
+    {
+      "name": "Книги",
+      "uri": "/books",
+      "hidden": true
+    },
+    {
+      "name": "Блог",
+      "env": "dev",
+      "uri": "/blog"
+    },
+    {
+      "name": "Чтиво",
+      "env": "dev",
+      "items": [
+        {
+          "name": "Пример книги",
+          "uri": "/reader/example-book"
+        },
+        {
+          "name": "Пример 2",
+          "uri": "/reader/example2"
+        }
+      ]
+    },
+    {
+      "name": "Sandbox",
+      "env": "dev",
+      "items": [
+        {
+          "name": "Fixture generator",
+          "uri": "/sandbox/fixture-generator"
+        },
+        {
+          "name": "Not found",
+          "uri": "not-found"
+        }
+      ]
+    }
+  ],
+  "rightMenu": []
+}

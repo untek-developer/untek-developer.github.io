@@ -1,0 +1,1 @@
+import{r as s,j as t}from"./index-tAxGdBJP.js";import{a as n}from"./apiClient-Hrr0e7fx.js";import{A as r}from"./aboutContactRender-Jo-OdejL.js";function f(){const[a,o]=s.useState([]);return s.useEffect(()=>{n.getJson("contacts/list.json").then(e=>{o(e.contacts)})},[]),t.jsxs(t.Fragment,{children:[t.jsx("h1",{children:"Контакты"}),t.jsx(r,{contacts:a??[]})]})}export{f as default};

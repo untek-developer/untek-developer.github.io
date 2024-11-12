@@ -1,0 +1,1 @@
+class n{constructor(t){this.baseUrl=t}getJson(t){return this.get(t).then(e=>e.json())}getText(t){return this.get(t).then(e=>e.text())}get(t){const e=this.baseUrl+t;return fetch(e)}}const s=new n("/rest-api/"),i=s;export{i as a};

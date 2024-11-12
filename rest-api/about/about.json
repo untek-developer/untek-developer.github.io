@@ -1,0 +1,60 @@
+{
+  "fullName": "Ямщиков Виталий",
+  "shortName": "Ямщиков Виталий",
+  "photo": "rest-api/about/my-photo.jpeg",
+  "birthday": "1988-05-21",
+  "gender": "male",
+  "position": "Backend-разработчик",
+  "aboutMeRef": "about/about-me.md",
+  "contacts": [
+    {
+      "type": "Мобильный телефон",
+      "label": "+7 778 317 73 84",
+      "isMain": true,
+      "icon": "fas fa-phone"
+    },
+    {
+      "type": "Email",
+      "url": "theyamshikov@yandex.ru",
+      "isMain": true,
+      "icon": "fas fa-envelope"
+    },
+    {
+      "type": "Личный аккаунт (Telegram)",
+      "label": "@phpGuru",
+      "url": "https://t.me/phpGuru",
+      "isMain": true,
+      "icon": "fab fa-telegram"
+    },
+    {
+      "type": "Сообщество Synfony и PHP (Telegram)",
+      "label": "Symfony Lab group",
+      "url": "https://t.me/symfonylabgroup",
+      "icon": "fab fa-telegram"
+    },
+    {
+      "type": "Канал о Symfony и PHP (Telegram)",
+      "label": "Symfony Lab channel",
+      "url": "https://t.me/symfonylabchannel",
+      "icon": "fab fa-telegram"
+    },
+    {
+      "type": "Профиль (Github)",
+      "label": "untek-developer",
+      "url": "https://github.com/untek-developer",
+      "icon": "fab fa-github"
+    },
+    {
+      "type": "Страничка (VKontakte)",
+      "label": "untek-developer",
+      "url": "https://vk.com/untek-developer",
+      "icon": "fab fa-vk"
+    },
+    {
+      "type": "Мое портфолио",
+      "label": "Портфолио",
+      "url": "https://untek-developer.github.io/",
+      "icon": "fas fa-user"
+    }
+  ]
+}
